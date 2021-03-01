@@ -3,7 +3,6 @@
 ## Separation of Concerns
 Suggests that any complex problem can be more easily handled if it is subdivided into pieces that can each be solved and/or optimized independently.
 
-
 ## Modularity
 Software is divided into separately named and addressable components, sometimes called modules, that are integrated to satisfy problem requirements.
 
@@ -20,7 +19,7 @@ Is a representation of a crosscutting concern.
 ## Refactoring
 Is the process of changing a software system in such a way that it does not alter the external behavior of the code design yet improves its internal structure.
 
-# OO Basics
+# [OO Basics](https://www.indeed.com/career-advice/career-development/what-is-object-oriented-programming)
 
 ## Abstraction
 The process of filtering the available information and arriving at a subset that is essential for an application.
