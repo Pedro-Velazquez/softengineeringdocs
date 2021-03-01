@@ -47,17 +47,17 @@ Enable a number of different operations to have the same name. This in turn deco
 
 # SOLID Principles
 
-## Single Responsability
+## [Single Responsability](https://www.javaguides.net/2018/02/single-responsibility-principle.html)
 A class should have one and only one responsability.
 
-## Open/Closed
+## [Open/Closed](https://www.javaguides.net/2018/02/open-closed-principle.html)
 A class should be open for extension but closed for modification.
 
-## Liskov Substitution
+## [Liskov Substitution](https://www.javaguides.net/2018/02/liskov-substitution-principle.html)
 Derived classes should be substitutable for their base class.
 
-## Interface Segregation
+## [Interface Segregation](https://www.javaguides.net/2018/02/interface-segregation-principle.html)
 Clients should not be forced to depend on methods they don't use.
 
-## Dependency Inversion
+## [Dependency Inversion](https://www.javaguides.net/2018/02/dependency-inversion-principle.html)
 High-level concrete classes should not be dependent on other low-level concrete classes. Instead, they should depend on abstract classes or interfaces.
