@@ -1,0 +1,1 @@
+Aquí estaré compartiendo algunas notas de lo que voy aprendiendo sobre diversos temas de la ingeniería de software. Espero que le puedan sacar provecho, y que los motive a estudiar. Cualquier sugerencia es bienvenida :)
