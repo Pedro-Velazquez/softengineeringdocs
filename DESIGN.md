@@ -7,8 +7,7 @@ Suggests that any complex problem can be more easily handled if it is subdivided
 Software is divided into separately named and addressable components, sometimes called modules, that are integrated to satisfy problem requirements.
 
 ## Functional Independence
-Design software so that each module addresses a
-specific subset of requirements and has a simple interface when viewed from other parts of the program structure.
+Design software so that each module addresses a specific subset of requirements and has a simple interface when viewed from other parts of the program structure.
 
 ## Refinement
 An application is developed by successively refining levels of procedural detail. A hierarchy is developed by decomposing a macroscopic statement of function (a procedural abstraction) in a stepwise fashion until programming language statements are reached
